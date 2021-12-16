@@ -2,3 +2,6 @@ add fifth
 add sixth
 add sevev,eight,nine,ten
 add eleven
+add summary
+add minus
+7
